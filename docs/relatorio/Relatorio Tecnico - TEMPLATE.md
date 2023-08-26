@@ -17,7 +17,7 @@ Rotativos para vagas de trânsito.
 > - Daniel de Oliveira Silva
 > - Dadi Satler Rodrigues
 > - Eduardo Eugenio Pereira
-> - João Victolr da Silva Oliveira
+> - João Victor da Silva Oliveira
 > - Saulo Luiz se Oliveira
 > - Wherks Junior Souza Lacerda
 
