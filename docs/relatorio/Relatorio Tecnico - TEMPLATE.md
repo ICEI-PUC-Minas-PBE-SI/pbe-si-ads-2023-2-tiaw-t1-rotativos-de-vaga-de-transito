@@ -1,5 +1,5 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+Rotativos para vagas de trânsito. 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -14,8 +14,13 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Daniel de Oliveira Silva
+> - Dadi Satler Rodrigues
+> - Eduardo Eugenio Pereira
+> - João Victolr da Silva Oliveira
+> - Saulo Luiz se Oliveira
+> - Wherks Junior Souza Lacerda
+
 
 # Estrutura do Documento
 
