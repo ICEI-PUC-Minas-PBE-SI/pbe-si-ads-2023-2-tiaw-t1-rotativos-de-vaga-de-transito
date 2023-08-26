@@ -1,5 +1,5 @@
 # Informações do Projeto
-Rotativos para vagas de trânsito. 
+Rotativos online para vagas de trânsito. 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
