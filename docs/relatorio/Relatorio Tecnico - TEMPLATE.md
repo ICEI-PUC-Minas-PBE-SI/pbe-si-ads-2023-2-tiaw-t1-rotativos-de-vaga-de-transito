@@ -29,6 +29,7 @@ Rotativos para vagas de trânsito.
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
   - [Problema](#problema)
+  - A falta de tecnologia para informar aos motoristas sobre a disponibilidade de vagas em tempo real pode levar a um processo ineficiente de busca por estacionamento. Em algumas áreas urbanas, os espaços de estacionamento são compartilhados com outros usos, como áreas comerciais e residenciais. Isso pode criar uma competição intensa pelos espaços disponíveis, especialmente durante os horários de pico.
   - [Objetivos](#objetivos)
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
