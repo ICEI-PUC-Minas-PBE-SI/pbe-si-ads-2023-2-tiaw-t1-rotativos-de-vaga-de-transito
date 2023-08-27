@@ -36,7 +36,10 @@ Rotativos online para vagas de trânsito.
   -  Desenvolver um software onde o nosso cliente conseguirá reservar uma vagar de estacionamento publico, determinando a partir de que hora irá precisar da vaga e informando aproximadamente quanto irá utilizar. Com isso o mesmo não vai ficar rodando por minutos procurando uma vaga .
   -  
   - [Justificativa](#justificativa)
+  - 
   - [Público-Alvo](#público-alvo)
+  - Nosso piblico alvo são pessoas que vivem em áreas urbanas movimentadas e precisam estacionar regularmente em ruas congestionadas.Qualquer pessoa que valoriza a comodidade de ter uma vaga de estacionamento garantida e evita o incômodo de procurar vagas disponíveis.
+  - 
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
   - [Histórias de Usuários](#histórias-de-usuários)
