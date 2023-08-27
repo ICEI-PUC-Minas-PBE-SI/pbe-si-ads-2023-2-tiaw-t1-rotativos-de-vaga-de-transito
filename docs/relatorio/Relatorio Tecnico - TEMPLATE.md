@@ -28,10 +28,13 @@ Rotativos online para vagas de trânsito.
   - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
+- 
   - [Problema](#problema)
   - A falta de tecnologia para informar aos motoristas sobre a disponibilidade de vagas em tempo real pode levar a um processo ineficiente de busca por estacionamento. Em algumas áreas urbanas, os espaços de estacionamento são compartilhados com outros usos, como áreas comerciais e residenciais. Isso pode criar uma competição intensa pelos espaços disponíveis, especialmente durante os horários de pico.
+  - 
   - [Objetivos](#objetivos)
   -  Desenvolver um software onde o nosso cliente conseguirá reservar uma vagar de estacionamento publico, determinando a partir de que hora irá precisar da vaga e informando aproximadamente quanto irá utilizar. Com isso o mesmo não vai ficar rodando por minutos procurando uma vaga .
+  -  
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
