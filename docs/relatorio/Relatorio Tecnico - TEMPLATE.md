@@ -42,7 +42,7 @@ Rotativos online para vagas de trânsito.
   - Nosso piblico alvo são pessoas que vivem em áreas urbanas movimentadas e precisam estacionar regularmente em ruas congestionadas.Qualquer pessoa que valoriza a comodidade de ter uma vaga de estacionamento garantida e evita o incômodo de procurar vagas disponíveis.
   - 
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
+  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) 
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
     - [Requisitos Funcionais](#requisitos-funcionais)
