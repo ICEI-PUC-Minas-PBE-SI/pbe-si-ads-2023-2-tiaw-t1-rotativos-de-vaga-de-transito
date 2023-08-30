@@ -1,5 +1,6 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Rotacionamento de Vagas de Trânsito
+
+O projeto "Rotacionamento de Vagas de Trânsito" têm como objetivo, facilitar a vida daqueles que utilizam carros, motos e outros tipos de veículos. A ideia é construir um sistema onde o usuário conseguirá reservar sua vaga para estacionar na rua, em um lugar seguro, monitorado e exclusivo. E isso tudo, através de seu telefone celular ou computador. Priorizamos pelo conforto e pela praticidade que o usuário terá ao utilizar o sistema.
 
 ## Alunos integrantes da equipe
 
