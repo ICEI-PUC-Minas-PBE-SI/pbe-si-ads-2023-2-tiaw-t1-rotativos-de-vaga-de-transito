@@ -1,68 +1,69 @@
-# Informações do Projeto
-Rotativos online para vagas de trânsito. 
+## Informações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Sistemas de Informação - Trabalho Interdisciplicar: Aplicações Web
+> - Rotacionamento de Vagas de Trânsito
 
-`CURSO` 
+## Introdução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> O projeto "Rotacionamento de Vagas de Trânsito" têm como objetivo, facilitar a vida daqueles que utilizam carros, motos e outros tipos de veículos. A ideia é construir um sistema onde o usuário conseguirá reservar sua vaga para estacionar na rua, em um lugar seguro, monitorado e exclusivo. E isso tudo, através de seu telefone celular ou computador. Priorizamos pelo conforto e pela praticidade que o usuário terá ao utilizar do sistema. 
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Daniel de Oliveira Silva
-> - Dadi Satler Rodrigues
-> - Eduardo Eugenio Pereira
+> - Davi Satler Rodrigues
+> - Eduardo Eugênio Pereira
 > - João Victor da Silva Oliveira
-> - Saulo Luiz se Oliveira
+> - Saulo Luiz de Oliveira
 > - Wherks Junior Souza Lacerda
 
 
-# Estrutura do Documento
+## Estrutura do Documento
 
-- [Informações do Projeto](#informações-do-projeto)
-  - [Participantes](#participantes)
 - [Estrutura do Documento](#estrutura-do-documento)
+- [Informações do Projeto](#informações-do-projeto)
 - [Introdução](#introdução)
-- 
-  - [Problema](#problema)
-  - A falta de tecnologia para informar aos motoristas sobre a disponibilidade de vagas em tempo real pode levar a um processo ineficiente de busca por estacionamento. Em algumas áreas urbanas, os espaços de estacionamento são compartilhados com outros usos, como áreas comerciais e residenciais. Isso pode criar uma competição intensa pelos espaços disponíveis, especialmente durante os horários de pico.
-  - 
-  - [Objetivos](#objetivos)
-  -  Desenvolver um software onde o nosso cliente conseguirá reservar uma vagar de estacionamento publico, determinando a partir de que hora irá precisar da vaga e informando aproximadamente quanto irá utilizar. Com isso o mesmo não vai ficar rodando por minutos procurando uma vaga .
-  -  
-  - [Justificativa](#justificativa)
-  - Como motorista e usuário frequente das vagas de estacionamento sei a dificuldade que é encontrar uma vaga próximo ao local que preciso estacionar. Em horário de pico é ainda pior, vagas disponíveis estão se tornando cada vez mais difíceis nas cidades mais movimentadas.
-  - 
-  - [Público-Alvo](#público-alvo)
-  - Nosso piblico alvo são pessoas que vivem em áreas urbanas movimentadas e precisam estacionar regularmente em ruas congestionadas.Qualquer pessoa que valoriza a comodidade de ter uma vaga de estacionamento garantida e evita o incômodo de procurar vagas disponíveis.
-  - 
+- [Participantes](#participantes)
+- [Problema](#problema)
+- [Objetivos](#objetivos)
+- [Justificativa](#justificativa)
+- [Público-Alvo](#público-alvo)
+
+
+## Problema
+> A falta de tecnologia para informar aos motoristas sobre a disponibilidade de vagas em tempo real pode levar a um processo ineficiente de busca por estacionamento. Em algumas áreas urbanas, os espaços de estacionamento são compartilhados com outros usos, como áreas comerciais e residenciais. Isso pode criar uma competição intensa pelos espaços disponíveis, especialmente durante os horários de pico.
+
+## Objetivos
+> Desenvolver um software onde o nosso cliente conseguirá reservar uma vagar de estacionamento publico, determinando a partir de que hora irá precisar da vaga e informar aproximadamente quando irá utilizar. Com isso o mesmo não perderá tempo procurando uma vaga .
+
+## Justificativa
+> Como motorista e usuário frequente das vagas de estacionamento sei a dificuldade que é encontrar uma vaga próximo ao local que preciso estacionar. Em horário de pico é ainda pior, vagas disponíveis estão se tornando cada vez mais difíceis nas cidades mais movimentadas.
+ 
+## Público-Alvo
+> Nosso público alvo são pessoas que vivem em áreas urbanas movimentadas e precisam estacionar regularmente em ruas congestionadas.Qualquer pessoa que valoriza a comodidade de ter uma vaga de estacionamento garantida e evita o incômodo de procurar vagas disponíveis.
+
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) 
-  - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos)
-    - [Requisitos Funcionais](#requisitos-funcionais)
-    - [Requisitos não Funcionais](#requisitos-não-funcionais)
-  - [Restrições](#restrições)
+- [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia) 
+- [Histórias de Usuários](#histórias-de-usuários)
+- [Requisitos](#requisitos)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Requisitos não Funcionais](#requisitos-não-funcionais)
+- [Restrições](#restrições)
 - [Projeto de Interface](#projeto-de-interface)
-  - [User Flow](#user-flow)
-  - [Wireframes](#wireframes)
+- [User Flow](#user-flow)
+- [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
-  - [Divisão de Papéis](#divisão-de-papéis)
-  - [Ferramentas](#ferramentas)
-  - [Controle de Versão](#controle-de-versão)
+- [Divisão de Papéis](#divisão-de-papéis)
+- [Ferramentas](#ferramentas)
+- [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
-  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [Arquitetura da solução](#arquitetura-da-solução)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
-  - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
-  - [Registros de Testes](#registros-de-testes)
+- [Plano de Testes](#plano-de-testes)
+- [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
+- [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
 
