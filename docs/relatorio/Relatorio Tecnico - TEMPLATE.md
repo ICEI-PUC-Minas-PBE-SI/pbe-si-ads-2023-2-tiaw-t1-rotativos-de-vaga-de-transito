@@ -15,7 +15,7 @@ Rotativos online para vagas de trânsito.
 >
 > Os membros do grupo são: 
 > - Daniel de Oliveira Silva
-> - Dadi Satler Rodrigues
+> - Davi Satler Rodrigues
 > - Eduardo Eugenio Pereira
 > - João Victor da Silva Oliveira
 > - Saulo Luiz se Oliveira
