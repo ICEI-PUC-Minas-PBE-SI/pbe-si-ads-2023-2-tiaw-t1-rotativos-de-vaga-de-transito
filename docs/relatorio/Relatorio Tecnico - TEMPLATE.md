@@ -1,7 +1,7 @@
 # Informações do Projeto
 Rotativos online para vagas de trânsito. 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  COLOQUE AQUI O SEU TEXTO .......
 
 `CURSO` 
 
