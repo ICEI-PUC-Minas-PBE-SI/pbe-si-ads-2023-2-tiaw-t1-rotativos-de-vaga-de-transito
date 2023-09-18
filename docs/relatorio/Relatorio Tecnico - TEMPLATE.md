@@ -42,10 +42,13 @@ Rotativos online para vagas de trânsito.
   - Nosso piblico alvo são pessoas que vivem em áreas urbanas movimentadas e precisam estacionar regularmente em ruas congestionadas.Qualquer pessoa que valoriza a comodidade de ter uma vaga de estacionamento garantida e evita o incômodo de procurar vagas disponíveis.
   - 
 - [Especificações do Projeto](#especificações-do-projeto)
-- - Jéssica Gomez
+
   - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
-  - docs/relatorio/images/Captura de tela 2023-09-12 210632.png
- 
+  - Jéssica Gomez
+ ![persona1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/a88f48d6-710e-471f-85b4-64c3a36e868f)
+![mapa de empatia 1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/a29bb6d3-2a6c-42ce-8646-efcfac411518)
+
+
   - 
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
