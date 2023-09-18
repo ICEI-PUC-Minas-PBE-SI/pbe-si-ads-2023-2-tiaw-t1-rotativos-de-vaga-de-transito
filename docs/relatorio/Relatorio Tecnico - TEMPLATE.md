@@ -25,7 +25,13 @@ Rotativos online para vagas de trânsito.
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
-  - [Participantes](#participantes)
+
+  - Daniel de Oliveira Silva
+  - Davi Satler Rodrigues
+  - Eduardo Eugênio Pereira
+  - João Victor da Silva Oliveira
+  - Saulo Luiz de Oliveira e Silva
+  - Wherks Júnior Souza Lacerda
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
 - 
