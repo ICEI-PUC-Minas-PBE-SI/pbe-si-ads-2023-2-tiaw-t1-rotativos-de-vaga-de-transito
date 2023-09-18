@@ -301,6 +301,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > **Exemplo**:
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
+![Wireframe](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/143138006/338d4649-ca27-46d1-a10c-540b7c5a4bd9)
 
 
 # Metodologia
