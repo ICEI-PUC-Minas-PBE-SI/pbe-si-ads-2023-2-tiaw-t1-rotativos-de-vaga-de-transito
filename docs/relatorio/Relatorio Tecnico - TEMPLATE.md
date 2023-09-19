@@ -36,13 +36,13 @@ Rotativos online para vagas de trânsito.
 - [Introdução](#introdução)
 - 
   - [Problema](#problema)
-  - A falta de tecnologia para informar aos motoristas sobre a disponibilidade de vagas em tempo real pode levar a um processo ineficiente de busca por estacionamento. Em algumas áreas urbanas, os espaços de estacionamento são compartilhados com outros usos, como áreas comerciais e residenciais. Isso pode criar uma competição intensa pelos espaços disponíveis, especialmente durante os horários de pico.
+  - Os motoristas de cidades grandes sofrem,devido a falta de locais adequados e o mal gerenciamento dos existentes,  com a ausência de vagas para  o estacionamento de seus veículos. Dessa forma, nota-se que um motorista, ao percorrer a cidade, não tem garantia quanto ao local que poderá estacionar e,muitas vezes, não encontra esse.
   - 
   - [Objetivos](#objetivos)
-  -  Desenvolver um software onde o nosso cliente conseguirá reservar uma vagar de estacionamento publico, determinando a partir de que hora irá precisar da vaga e informando aproximadamente quanto irá utilizar. Com isso o mesmo não vai ficar rodando por minutos procurando uma vaga .
+  -  O objetivo do projeto é o desenvolvimento de uma interface web que forneça ao usuário informações relacionadas a disponibilidade de vagas em estacionamentos rotativos e privados, permitindo a reserva das mesmas.
   -  
   - [Justificativa](#justificativa)
-  - Como motorista e usuário frequente das vagas de estacionamento sei a dificuldade que é encontrar uma vaga próximo ao local que preciso estacionar. Em horário de pico é ainda pior, vagas disponíveis estão se tornando cada vez mais difíceis nas cidades mais movimentadas.
+  -Sob a perspectiva de que a ausência de uma eficiente gestão resulta em incertezas e atrasos, tendo como consequência um impacto significativo na qualidade de vida dos condutores, o projeto "Rotatividade de Vagas de Trânsito" se apresenta como uma solução que visa aprimorar a administração das vagas de estacionamento viário.
   - 
   - [Público-Alvo](#público-alvo)
   - Nosso piblico alvo são pessoas que vivem em áreas urbanas movimentadas e precisam estacionar regularmente em ruas congestionadas.Qualquer pessoa que valoriza a comodidade de ter uma vaga de estacionamento garantida e evita o incômodo de procurar vagas disponíveis.
