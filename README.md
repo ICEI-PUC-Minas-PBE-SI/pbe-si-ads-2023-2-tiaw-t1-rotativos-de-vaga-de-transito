@@ -1,6 +1,6 @@
 # Rotacionamento de Vagas de Trânsito
 
-O projeto "Rotacionamento de Vagas de Trânsito" têm como objetivo, facilitar a vida daqueles que utilizam carros, motos e outros tipos de veículos. A ideia é construir um sistema onde o usuário conseguirá reservar sua vaga para estacionar na rua, em um lugar seguro, monitorado e exclusivo. E isso tudo, através de seu telefone celular ou computador. Priorizamos pelo conforto e pela praticidade que o usuário terá ao utilizar o sistema.
+O projeto “Rotacionamento de Vagas de Trânsito” tem como objetivo o desenvolvimento de um sistema web que possibilite a reserva de vagas em estacionamentos,a princípio,da cidade de Belo Horizonte. O projeto possibilitará ao usuário maior flexibilidade,segurança e eficiência ao estacionar  seu veículo, pois o gerenciamento das vagas, tanto na rua quanto em estacionamentos, será feito pelo nosso sistema.
 
 ## Alunos integrantes da equipe
 
