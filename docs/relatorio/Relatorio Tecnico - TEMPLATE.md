@@ -131,32 +131,13 @@ Sob a perspectiva de que a ausência de uma eficiente gestão resulta em incerte
 ![persona7](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/148d70e0-4252-4c16-909a-2a89f5e3a223)
 
 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/Captura de tela 2023-09-12 210632.png)
- 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
-
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Carlos vem de fora para passar o feriado na cidade e tem receio de que não haja vagas de carro disponíveis no centro, pois está vindo em época de alta temporada. Usando o aplicativo, ele consegue reservar a vaga sem problemas ao chegar no centro.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+Jéssica quer estacionar o carro na vaga rotativa do centro, mas não encontra uma pessoa vendendo os tickets físicos de estacionamento rotativo. Assim, o aplicativo se torna uma excelente solução.
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+Márcio precisa estacionar todos os dias em um dos pontos comerciais da cidade. Como sua rotina é muito agitada, ele não tem tempo de comprar os tickets de estacionamento rotativo todas as vezes em que estaciona o carro. Com isso, a função de comprar vários tickets antecipadamente pelo aplicativo se torna uma conveniência.
 
 ## Requisitos
 
@@ -172,49 +153,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+Os requisitos para que o Estacionamento Rotativo funcione são:
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+O programa deve ter uma tela de início, uma tela para iniciar, com a Logo do Estacionamento Rotativo, após essa tela irá ter uma tela de login, onde o usuário iara cadastrar seu dados como: nome, documentos de identidade, carteira de motorista, placa do seu veículo, modelo do seu veículo, um telefone de contato e um e-mail de sua preferência.
+
+Após feito o seu cadastro ele será enviado a uma tela, com uma barra de pesquisa, nela ele deverá colocar qual a localização que ele quer que o seu veículo fique estacionado, após essa etapa o programa irá colocar na tela quais horários ( horario de Brasília) estão disponíveis para o usuário.
+Após o usuário escolher o horário desejado, ele será levado para a tela de pagamento, onde irá estar as operações possíveis para que ele efetue o pagamento.
+
+Com o pagamento sendo efetuado ele irá receber um comprovante ( no e-mail, WhatsApp ou no próprio sistema) de que a vaga dele foi devidamente confirmada e que ela estará disponível para ele utilizá-la no horário previamente marcado.
+
+A duração de todo esse processo poderá ser feita em 15 minutos.
+
+
+Obs* O requisitos de prioridade será daquele que reservar a vaga primeiro e com uma maior antecedência.
 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+ As restrições se resumem ao projeto ter que ser entregue até o fim do semestre e não poder utilizar um módulo backend
 
 
 # Projeto de Interface
