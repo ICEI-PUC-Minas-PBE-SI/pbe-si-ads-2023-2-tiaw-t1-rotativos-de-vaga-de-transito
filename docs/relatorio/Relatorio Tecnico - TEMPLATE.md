@@ -246,9 +246,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+
 
 
 ## Wireframes
