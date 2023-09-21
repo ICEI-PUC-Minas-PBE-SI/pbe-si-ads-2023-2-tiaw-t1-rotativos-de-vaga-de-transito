@@ -20,53 +20,34 @@ Rotativos online para vagas de trânsito.
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
-
-  - Daniel de Oliveira Silva
-  - Davi Satler Rodrigues
-  - Eduardo Eugênio Pereira
-  - João Victor da Silva Oliveira
-  - Saulo Luiz de Oliveira e Silva
-  - Wherks Júnior Souza Lacerda
 - [Estrutura do Documento](#estrutura-do-documento)
-- 
 - [Introdução](#introdução)
-  
-  - [Problema](#problema)
-  - [Objetivos](#objetivos) 
-  - [Justificativa](#justificativa)
-  - [Público-Alvo](#público-alvo)
-  - 
+- [Problema](#problema)
+- [Objetivos](#objetivos) 
+- [Justificativa](#justificativa)
+- [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)[ilovepdf_pages-to-jpg.zip](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/files/12653722/ilovepdf_pages-to-jpg.zip)
-[mapa-empatia.pdf.zip](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/files/12653725/mapa-empatia.pdf.zip)
-
-  - Jéssica Gomez
- ![persona1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/a88f48d6-710e-471f-85b4-64c3a36e868f)
-![mapa de empatia 1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/a29bb6d3-2a6c-42ce-8646-efcfac411518)
-
-
-  - 
-  - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos)
-    - [Requisitos Funcionais](#requisitos-funcionais)
-    - [Requisitos não Funcionais](#requisitos-não-funcionais)
-  - [Restrições](#restrições)
+- [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
+- [Histórias de Usuários](#histórias-de-usuários)
+- [Requisitos](#requisitos)
+- [Requisitos Funcionais](#requisitos-funcionais)
+- [Requisitos não Funcionais](#requisitos-não-funcionais)
+- [Restrições](#restrições)
 - [Projeto de Interface](#projeto-de-interface)
-  - [User Flow](#user-flow)
-  - [Wireframes](#wireframes)
+- [User Flow](#user-flow)
+- [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
-  - [Divisão de Papéis](#divisão-de-papéis)
-  - [Ferramentas](#ferramentas)
-  - [Controle de Versão](#controle-de-versão)
+- [Divisão de Papéis](#divisão-de-papéis)
+- [Ferramentas](#ferramentas)
+- [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
-  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [Arquitetura da solução](#arquitetura-da-solução)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
-  - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
-  - [Registros de Testes](#registros-de-testes)
+- [Plano de Testes](#plano-de-testes)
+- [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
+- [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
 
@@ -86,8 +67,6 @@ O objetivo do projeto é o desenvolvimento de uma interface web que forneça ao 
 
 Sob a perspectiva de que a ausência de uma eficiente gestão resulta em incertezas e atrasos, tendo como consequência um impacto significativo na qualidade de vida dos condutores, o projeto "Rotatividade de Vagas de Trânsito" se apresenta como uma solução que visa aprimorar a administração das vagas de estacionamento viário. 
 
-
- [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -117,26 +96,41 @@ Sob a perspectiva de que a ausência de uma eficiente gestão resulta em incerte
 > realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
+ - Jéssica Gomez
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![persona1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/6a32b83a-ef4d-44a0-83c0-d14a63aeece0)
+![mapa de empatia 1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/5e2c071c-fd60-4d67-827f-720a645cb374)
+
+ - Carlos Roberto
+
+![persona2](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/cb1a6f2b-ddc0-4757-b470-99303a2e55c0)
+![mapa de empatia 2](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/e961bac3-1520-431c-83a8-db2d54a27696)
+
+ - Márcio Lira
+
+![persona3](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/d6730f56-1f62-4bde-b2df-6462e07538d7)
+![mapa de empatia 3](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/1a5ea956-c7dc-4bdd-ba95-ab1fa56cb57f)
+
+ - Fantine
+
+![persona4](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/1338ddd4-774a-403d-b9e2-02e5bd1b47c5)
+![mapa de empatia 4](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/572eb3b3-d5e6-4e33-ae37-abc9c377df23)
+
+ - Cléber Vieira
+
+![persona5](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/31361f11-e1f7-46db-9c2c-2989f95fc9bf)
+![mapa de empatia 5](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/86d1988c-c008-4701-beb4-268956010199)
+
+ - Maria Antônia
+
+![persona6](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/7b604b91-66e5-4a01-9771-77134d2afcaa)
+![mapa de empatia 6](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/60bfd3b0-7e62-4287-8857-fc8f67c55978)
+
+ - Marcelo Henrique
+
+![persona7](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/38993690/148d70e0-4252-4c16-909a-2a89f5e3a223)
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](imaages/../images/Captura de tela 2023-09-12 210632.png)
