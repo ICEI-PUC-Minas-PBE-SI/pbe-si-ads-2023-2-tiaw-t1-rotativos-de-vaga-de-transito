@@ -3,16 +3,11 @@ Rotativos online para vagas de trânsito.
 
 ......  COLOQUE AQUI O SEU TEXTO .......
 
-`CURSO` 
+`Sistemas de Informação` 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Daniel de Oliveira Silva
 > - Davi Satler Rodrigues
