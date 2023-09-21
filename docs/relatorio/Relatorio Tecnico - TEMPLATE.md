@@ -234,8 +234,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-![Uploading User Flow Design Flowchart Whiteboard in Blue Yellow Spaced Color Blocks Style.png…]()
-
+![User Flow](user_flow.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
