@@ -15,6 +15,7 @@ Rotativos online para vagas de trânsito.
 > - João Victor da Silva Oliveira
 > - Saulo Luiz de Oliveira e Silva
 > - Wherks Junior Souza Lacerda
+> - Nycolas Elias Araújo Souza
 
 
 # Estrutura do Documento
