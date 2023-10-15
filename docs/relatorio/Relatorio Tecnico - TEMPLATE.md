@@ -56,7 +56,7 @@ Rotativos online para vagas de trânsito.
 
 ## Problema
 
- Os motoristas de cidades grandes sofrem,devido a falta de locais adequados e o mal gerenciamento dos existentes,  com a ausência de vagas para  o estacionamento de seus veículos. Dessa forma, nota-se que um motorista, ao percorrer a cidade, não tem garantia quanto ao local que poderá estacionar e,muitas vezes, não encontra esse.
+ Os motoristas de cidades grandes sofrem,devido a falta de locais adequados e o mal gerenciamento dos existentes,  com a ausência de vagas para  o estacionamento de seus veículos. Dessa forma, nota-se que um motorista, ao percorrer a cidade, não tem garantia quanto ao local que poderá estacionar e,muitas vezes, não encontra esse. A partir dessa ideia, nota-se que a ausência de um bom gerênciamento das vagas trás transtornos desnecessários ao motorista e aos  passageiros.
 
 
 ## Objetivos
@@ -66,11 +66,11 @@ O objetivo do projeto é o desenvolvimento de uma interface web que forneça ao 
 
 ## Justificativa
 
-Sob a perspectiva de que a ausência de uma eficiente gestão resulta em incertezas e atrasos, tendo como consequência um impacto significativo na qualidade de vida dos condutores, o projeto "Rotatividade de Vagas de Trânsito" se apresenta como uma solução que visa aprimorar a administração das vagas de estacionamento viário. 
+Sob a perspectiva de que a ausência de uma eficiente gestão resulta em incertezas e atrasos, tendo como consequência um impacto significativo na qualidade de vida dos condutores, o projeto "Rotatividade de Vagas de Trânsito" se apresenta como uma solução que visa aprimorar a administração das vagas de estacionamento viário e,assim, minimizar os transtornos gerados pela escassez das vagas, o que garantirá segurança e praticidade ao motorista.
 
 
 ## Público-Alvo
-são cidadãos comuns que frequentemente ou eventualmente precisarão estacionar em lugares movimentados e com difícil acesso a vagas, tornando conveniente a compra e a ativação de tickets de estacionamento na cidade. O aplicativo busca ter todos os motoristas da cidade como público-alvo, pois em algum momento será conveniente para eles utilizar o estacionamento rotativo
+São cidadãos comuns que frequentemente ou eventualmente precisarão estacionar em lugares movimentados e com difícil acesso a vagas, tornando conveniente a compra e a ativação de tickets de estacionamento na cidade. O aplicativo busca ter todos os motoristas da cidade como público-alvo, pois em algum momento será conveniente para eles utilizar o estacionamento rotativo
 
 
 
