@@ -134,8 +134,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Realização de login e senha                                       | ALTA |
+|RF-002| Criação da conta do usuario                                       | ALTA |
+|RF-003| Permitir que o usuário selecione o local de estacionamento        | ALTA | 
+|RF-004| Confirmação do local de estacionamento                            | ALTA | 
+|RF-005| Ativações em curso                                                | MEDIA | 
+|RF-006| Registro de modelo e placa do carro                               | ALTA |
+|RF-007| Cadastro de informaçoes de pagamento para cobrança                | ALTA |
+|RF-008| Dados do perfil do usuário                                        | MEDIA |
 
 
 ### Requisitos não Funcionais
