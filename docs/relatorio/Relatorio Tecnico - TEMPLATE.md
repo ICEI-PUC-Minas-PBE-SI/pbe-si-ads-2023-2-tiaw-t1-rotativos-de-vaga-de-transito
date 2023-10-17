@@ -146,20 +146,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-Os requisitos para que o Estacionamento Rotativo funcione são:
-
-O programa deve ter uma tela de início, uma tela para iniciar, com a Logo do Estacionamento Rotativo, após essa tela irá ter uma tela de login, onde o usuário iara cadastrar seu dados como: nome, documentos de identidade, carteira de motorista, placa do seu veículo, modelo do seu veículo, um telefone de contato e um e-mail de sua preferência.
-
-Após feito o seu cadastro ele será enviado a uma tela, com uma barra de pesquisa, nela ele deverá colocar qual a localização que ele quer que o seu veículo fique estacionado, após essa etapa o programa irá colocar na tela quais horários ( horario de Brasília) estão disponíveis para o usuário.
-Após o usuário escolher o horário desejado, ele será levado para a tela de pagamento, onde irá estar as operações possíveis para que ele efetue o pagamento.
-
-Com o pagamento sendo efetuado ele irá receber um comprovante ( no e-mail, WhatsApp ou no próprio sistema) de que a vaga dele foi devidamente confirmada e que ela estará disponível para ele utilizá-la no horário previamente marcado.
-
-A duração de todo esse processo poderá ser feita em 15 minutos.
-
-
-Obs* O requisitos de prioridade será daquele que reservar a vaga primeiro e com uma maior antecedência.
-
+|ID    | Descrição do Requisito  | 
+|------|-----------------------------------------|
+|RF-001| • Requisitos de eficiência: o sistema deverá processar n requisições por um determinado tempo.
+|RF-002| • Requisitos de portabilidade: o sistema deverá rodar em qualquer plataforma.
+|RF-003| • Requisitos éticos: o sistema não apresentará aos usuários quaisquer dados de cunho privativo.
+|RF-004| • Requisitos externos: Requisitos decorrentes de fatores externos ao sistema e ao processo de desenvolvimento. Requisitos de interoperabilidade, legislação,localização geográfica etc.
+|RF-005| • Requisitos legais: o sistema deverá atender às normas legais, tais como padrões, leis, etc.
+|RF-006| • Requisitos de implementação: o sistema deverá ser desenvolvido na linguagem HTML, Java, CSS.
 
 ## Restrições
 
