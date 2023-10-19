@@ -165,7 +165,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## User Flow
 
-![User Flow](images/flow.png)
+![User Flow](images/floww.png)
+![User Flow](images/flowtext.png)
 
 
 
