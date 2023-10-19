@@ -166,7 +166,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ## User Flow
 
 ![User Flow](images/floww.png)
-![User Flow](images/flowtext.png)
+
+1. Tela de login, com entrada de dados para usuários que já tenham cadastro.
+
+2. Tela para criação de conta, com entrada de dados para usuários que não possuem conta.
+
+3. Página inicial, onde o usuário pode pesquisar a rua ou o estacionamento desejado, e escolher a vaga disponível.
+
+4. O usuário poderá registrar seu veículo para o estacionar e facilitar a verificação.
+
+5. Confirmação de vaga, o usuário pode conferir se a vaga está certa, escolher um horário para estacionar e a forma de pagamento.
+
+6. Barra lateral, o usuário pode entrar em diferentes telas.
+
+7. Ativações em Curso, onde o usuário pode ver quanto tempo ainda tem naquela vaga, e se quiser, ativar uma nova vaga.
+
+8. Perfil, o usuário poderá adicionar uma foto, alterar dados e adicionar métodos de pagamento.
+
+9. Reativação de vaga, para o usuário reativar a mesma vaga e estender o uso.
+
+10.Métodos de pagamento, o usuário poderá adicionar um cartão ou adicionar saldo na sua conta para facilitar pagamentos futuros.
+
+
 
 
 
