@@ -216,32 +216,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 
-> - A metodologia utilizada pelo grupo foi a de delegar funçoes para cada membro a cada etapa em que o projeto
-> avançava, todos eram livres para sugerir, modificar e implementar novas funçoes ao projeto, os membros mais experientes do grupo ficaram com as partes mais complexas do projeto; enquanto os mais inexperientes tentavam aprender ficando com as funçoes mais simples porém não menos importantes.
-> - Os membros do grupo se comunicaram pelo aplicativo discord e pelo whatsapp em chamas de voz e por trocas de mensagens
-> - Utilizamos também o Bootstrap um Framework front-end web para nos ajudar a desenvolver o projeto
-> 
-> 
-> 
->
-> 
-> 
-> 
-> 
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+ - A metodologia utilizada pelo grupo foi a de delegar funçoes para cada membro a cada etapa em que o projeto
+ avançava, todos eram livres para sugerir, modificar e implementar novas funçoes ao projeto, os membros mais experientes do grupo ficaram com as partes mais complexas do projeto; enquanto os mais inexperientes tentavam aprender ficando com as funçoes mais simples porém não menos importantes.
+ - Os membros do grupo se comunicaram pelo aplicativo discord e pelo whatsapp em chamas de voz e por trocas de mensagens
+ - Utilizamos também o Bootstrap um Framework front-end web para nos ajudar a desenvolver o projeto
 
 ## Divisão de Papéis
 
-> - Nycolas Elias e wherks junior ficaram encarregados de formatar e organizar o github juntamente com a equipe
-> - Daniel ficou com a parte de login e Cadastro de conta,
-> - Saulo ficou com o Cadastro de cartão e as Reservas de vagas(JS)
-> - João ficou responsavel pela repaginação da tela incial e por ajustes pendentes em todas as outras áreas do projeto
-> - Eduardo foi responsavel pela apresentação
+ - Nycolas Elias e wherks junior ficaram encarregados de formatar e organizar o github juntamente com a equipe
+ - Daniel ficou com a parte de login e Cadastro de conta,
+ - Saulo ficou com o Cadastro de cartão e as Reservas de vagas(JS)
+ - João ficou responsavel pela repaginação da tela incial e por ajustes pendentes em todas as outras áreas do projeto
+ - Eduardo foi responsavel pela apresentação
 
 ## Ferramentas
 
