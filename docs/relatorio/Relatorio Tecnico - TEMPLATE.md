@@ -76,11 +76,8 @@ São cidadãos comuns que frequentemente ou eventualmente precisarão estacionar
 
 # Especificações do Projeto
 
+Foram utilizadas as seguintes linguagens: HTML, CSS e JavaScript. O projeto foi executado e desenvolvido no VSCode. Cada membro ficou responsável por uma funcionalidade específica do projeto.
 
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
  - Jéssica Gomez
