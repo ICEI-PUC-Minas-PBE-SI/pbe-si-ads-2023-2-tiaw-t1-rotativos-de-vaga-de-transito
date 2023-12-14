@@ -234,14 +234,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+> Nycolas Elias e wherks junior ficaram encarregados de formatar e organizar o github juntamente com a equipe
+> Daniel ficou com a parte de login e Cadastro de conta,
+> Saulo ficou com o Cadastro de cartão e as Reservas de vagas(JS)
+> João ficou responsavel pela repaginação da tela incial e por ajustes pendentes em todas as outras áreas do projeto
 
 ## Ferramentas
 
