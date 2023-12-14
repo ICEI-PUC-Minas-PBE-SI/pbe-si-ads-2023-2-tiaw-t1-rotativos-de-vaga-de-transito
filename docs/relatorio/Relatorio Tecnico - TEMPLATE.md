@@ -234,10 +234,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Divisão de Papéis
 
-> Nycolas Elias e wherks junior ficaram encarregados de formatar e organizar o github juntamente com a equipe
-> Daniel ficou com a parte de login e Cadastro de conta,
-> Saulo ficou com o Cadastro de cartão e as Reservas de vagas(JS)
-> João ficou responsavel pela repaginação da tela incial e por ajustes pendentes em todas as outras áreas do projeto
+> - Nycolas Elias e wherks junior ficaram encarregados de formatar e organizar o github juntamente com a equipe
+> - Daniel ficou com a parte de login e Cadastro de conta,
+> - Saulo ficou com o Cadastro de cartão e as Reservas de vagas(JS)
+> - João ficou responsavel pela repaginação da tela incial e por ajustes pendentes em todas as outras áreas do projeto
+> - Eduardo foi responsavel pela apresentação
 
 ## Ferramentas
 
