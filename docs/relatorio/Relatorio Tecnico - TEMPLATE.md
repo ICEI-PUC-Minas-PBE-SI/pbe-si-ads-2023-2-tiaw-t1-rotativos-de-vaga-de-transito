@@ -194,24 +194,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe]
-![WIREFRAME](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotativos-de-vaga-de-transito/assets/143138006/cce57a96-a0eb-41fc-a637-5ad12a5560d3)
-
-
-
+ Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
+ estrutura de um site web e seu relacionamentos entre suas
+ páginas. Um wireframe web é uma ilustração semelhante ao
+ layout de elementos fundamentais na interface.
+ 
 # Metodologia
 
 
@@ -240,17 +227,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |Framework front-end | Bootstrap |  https://getbootstrap.com/ | 
 |aplicativo de voz sobre IP e comunicação textual.  | Discord | https://discord.com/ | 
  
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> -  O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão, pela facil utilizaçao dos participantes.
-> - Ferramentas de comunicação
-> -  As ferramentas de comunicação utilizadas possuem
-> integração semelhante, façil utilizaçao dos participantes do grupo em chamadas de voz ou textual e por isso foram selecionadas.
-> - Framework front-end.
-> - O Framework front-end foi escolhido pela versatilidade com que podemos utiliza-lo, e pela facilidade em manipulado.
-> 
+ As ferramentas empregadas no projeto são:
+ 
+ - Editor de código.
+ -  O editor de código foi escolhido porque ele possui uma integração com o
+ sistema de versão, pela facil utilizaçao dos participantes. - Ferramentas de comunicação
+ -  As ferramentas de comunicação utilizadas possuem  integração semelhante, façil utilizaçao dos participantes do grupo em chamadas de voz ou textual e por isso foram selecionadas.
+ - Framework front-end.
+ - O Framework front-end foi escolhido pela versatilidade com que podemos utiliza-lo, e pela facilidade em manipulado.
+ 
 
 ## Controle de Versão
 
@@ -296,20 +281,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+- Para a criação do projeto foram utilzadas as ferramentas VScode, juntamente com o bootstrap nas seguintes linguagens: Html, Css e Javascript
+- A interação do usuário com o aplicativo envolve principalmente o Html e o Javascript, desde o login a confirmação da vaga.
+- O Css foi utilizado para a parte estética do site;
+- O Html foi responsável pela estrutura do conteúdo na web;
+- O Javascript foi nresponsavel pelas funcionalidades;
 
 ## Arquitetura da solução
 
