@@ -4,12 +4,12 @@ O projeto “Rotacionamento de Vagas de Trânsito” tem como objetivo o desenvo
 
 ## Alunos integrantes da equipe
 
-Nycolas Elias Araujo Souza,
-Wherks junior,
-Saulo Luiz,
-Daniel de Oliveira,
-Eduardo Eugenio Pereira Neto,
-joão Victor Da Silva Oliveira,
+- Nycolas Elias Araujo Souza,
+- Wherks junior,
+- Saulo Luiz,
+- Daniel de Oliveira,
+- Eduardo Eugenio Pereira Neto,
+- joão Victor Da Silva Oliveira,
 
 ## Professores responsáveis
 
