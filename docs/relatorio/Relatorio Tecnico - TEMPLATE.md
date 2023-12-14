@@ -251,11 +251,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > - Framework front-end.
 > - O Framework front-end foi escolhido pela versatilidade com que podemos utiliza-lo, e pela facilidade em manipulado.
 > 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
