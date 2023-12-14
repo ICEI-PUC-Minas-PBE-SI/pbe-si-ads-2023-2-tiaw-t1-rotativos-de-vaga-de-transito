@@ -4,15 +4,16 @@ O projeto “Rotacionamento de Vagas de Trânsito” tem como objetivo o desenvo
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Nycolas Elias Araujo Souza
+Wherks junior 
+Saulo Luiz
+Daniel de Oliveira
+Eduardo Eugenio Pereira Neto
+joão Victor Da Silva Oliveira
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+Fábio Martins Oliveira
 
 ## Instruções de utilização
 
