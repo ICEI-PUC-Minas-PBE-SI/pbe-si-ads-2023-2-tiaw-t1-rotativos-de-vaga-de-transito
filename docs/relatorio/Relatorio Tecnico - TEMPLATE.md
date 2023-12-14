@@ -218,7 +218,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 > - A metodologia utilizada pelo grupo foi a de delegar funçoes para cada membro a cada etapa em que o projeto
 > avançava, todos eram livres para sugerir, modificar e implementar novas funçoes ao projeto, os membros mais experientes do grupo ficaram com as partes mais complexas do projeto; enquanto os mais inexperientes tentavam aprender ficando com as funçoes mais simples porém não menos importantes.
-> - OS membros do grupo se comunicaram pelo aplicativo discord e pelo whatsapp em chamas de voz e por trocas de mensagens
+> - Os membros do grupo se comunicaram pelo aplicativo discord e pelo whatsapp em chamas de voz e por trocas de mensagens
 > - Utilizamos também o Bootstrap um Framework front-end web para nos ajudar a desenvolver o projeto
 > 
 > 
