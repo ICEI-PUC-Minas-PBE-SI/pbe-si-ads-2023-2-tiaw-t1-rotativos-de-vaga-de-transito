@@ -218,8 +218,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Editor de código-fonte  | Visual Studio Code |  https://code.visualstudio.com/[](url) | 
