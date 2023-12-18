@@ -269,4 +269,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 # Referências
 
 
-- Não tivemos referências no desenvolvimento do trabalho.
+- Não tivemos referências no desenvolvimento do projeto.
