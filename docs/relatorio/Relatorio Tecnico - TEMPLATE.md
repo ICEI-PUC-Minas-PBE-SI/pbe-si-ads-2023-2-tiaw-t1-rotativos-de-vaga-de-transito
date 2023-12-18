@@ -191,7 +191,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
  Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
  estrutura de um site web e seu relacionamentos entre suas
@@ -261,7 +260,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 - Na medida em que cada ferramenta foi feitas, os testes foram realizados.
 
-## Ferramentas de Testes (Opcional)
+## Ferramentas de Testes 
  _________
 ## Registros de Testes
 
