@@ -311,9 +311,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-- Não tivemos referencias
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+- Não tivemos referências no desenvolvimento do trabalho.
