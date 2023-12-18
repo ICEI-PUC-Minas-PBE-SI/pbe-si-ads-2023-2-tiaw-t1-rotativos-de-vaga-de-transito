@@ -244,7 +244,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 - A interação do usuário com o aplicativo envolve principalmente o Html e o Javascript, desde o login a confirmação da vaga.
 - O Css foi utilizado para a parte estética do site;
 - O Html foi responsável pela estrutura do conteúdo na web;
-- O Javascript foi nresponsavel pelas funcionalidades;
+- O Javascript foi responsavel pelas funcionalidades;
 
 ## Arquitetura da solução
 
