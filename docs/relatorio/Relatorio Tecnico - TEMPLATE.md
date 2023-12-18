@@ -297,7 +297,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 - Na medida em que cada ferramenta foi feitas, os testes foram realizados.
 
@@ -309,6 +308,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 - Não tivemos referências no desenvolvimento do trabalho.
