@@ -293,19 +293,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 # Avaliação da Aplicação
 
--Não houveram testes globais
+- Não houveram testes globais
 
 ## Plano de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
--Na medida em que cada ferramenta foi feitas, os testes foram realizados.
+- Na medida em que cada ferramenta foi feitas, os testes foram realizados.
 
 ## Ferramentas de Testes (Opcional)
  _________
 ## Registros de Testes
 
--Cada ferramenta do site foi criada de forma individual entre os membros do grupi, não houveram testes globais, apenas a versão final. Na medida em que cada ferramenta foi feitas, os testes foram realizados.
+- Cada ferramenta do site foi criada de forma individual entre os membros do grupi, não houveram testes globais, apenas a versão final. Na medida em que cada ferramenta foi feitas, os testes foram realizados.
 
 # Referências
 
