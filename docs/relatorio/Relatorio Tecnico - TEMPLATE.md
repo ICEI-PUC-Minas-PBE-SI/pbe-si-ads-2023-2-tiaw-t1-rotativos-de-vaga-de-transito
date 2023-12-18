@@ -8,14 +8,14 @@ Rotativos online para vagas de trânsito.
 
 
 ## Participantes
-> Os membros do grupo são: 
-> - Daniel de Oliveira Silva
-> - Davi Satler Rodrigues
-> - Eduardo Eugenio Pereira
-> - João Victor da Silva Oliveira
-> - Saulo Luiz de Oliveira e Silva
-> - Wherks Junior Souza Lacerda
-> - Nycolas Elias Araújo Souza
+ Os membros do grupo são: 
+ - Daniel de Oliveira Silva
+ - Davi Satler Rodrigues
+ - Eduardo Eugenio Pereira
+ - João Victor da Silva Oliveira
+ - Saulo Luiz de Oliveira e Silva
+ - Wherks Junior Souza Lacerda
+ - Nycolas Elias Araújo Souza
 
 
 # Estrutura do Documento
