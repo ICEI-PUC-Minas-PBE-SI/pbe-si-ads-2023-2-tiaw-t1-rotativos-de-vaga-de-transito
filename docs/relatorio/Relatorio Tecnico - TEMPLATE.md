@@ -201,9 +201,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
  
 # Metodologia
 
-
-
- - A metodologia utilizada pelo grupo foi a de delegar funçoes para cada membro a cada etapa em que o projeto
+- A metodologia utilizada pelo grupo foi a de delegar funçoes para cada membro a cada etapa em que o projeto
  avançava, todos eram livres para sugerir, modificar e implementar novas funçoes ao projeto, os membros mais experientes do grupo ficaram com as partes mais complexas do projeto; enquanto os mais inexperientes tentavam aprender ficando com as funçoes mais simples porém não menos importantes.
  - Os membros do grupo se comunicaram pelo aplicativo discord e pelo whatsapp em chamas de voz e por trocas de mensagens
  - Utilizamos também o Bootstrap um Framework front-end web para nos ajudar a desenvolver o projeto
@@ -270,12 +268,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Tecnologias Utilizadas
 
@@ -299,51 +293,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+-Não houveram testes globais
 
 ## Plano de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+-Na medida em que cada ferramenta foi feitas, os testes foram realizados.
 
 ## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
+ _________
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+-Cada ferramenta do site foi criada de forma individual entre os membros do grupi, não houveram testes globais, apenas a versão final. Na medida em que cada ferramenta foi feitas, os testes foram realizados.
 
 # Referências
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
+- Não tivemos referencias
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
